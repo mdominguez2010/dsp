@@ -87,12 +87,12 @@ ___
 
 Code for emoji's:
 ```
-:smiling_imp:
-:smiley:
-:watermelon:
+:smiling_imp:  
+:running:  
+:goat: 
 ```
 Rendered emoji's:  
-:fireworks:  
+:smiling_imp:  
 :running:  
 :goat:  
  
