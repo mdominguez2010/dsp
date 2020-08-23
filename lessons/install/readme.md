@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-Python 3 is installed a year ago because it was the most current Python at the time. I've had it ever since.
+I installed Python 3 a year ago because it was the most current Python at the time. I've had it ever since.
 
 ### Q2. Which Python Version Installed   
 
