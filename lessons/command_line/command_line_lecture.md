@@ -195,7 +195,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?: It shoed "B" for the number of bytes
+> What changed?: It shows "B" for the number of bytes
 
 If instead copying we just want to change the name of a file, we can do:
 
