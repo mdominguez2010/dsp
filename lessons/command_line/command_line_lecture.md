@@ -146,6 +146,10 @@ Nice.
 > Let's save the output of the `curl` command to a file called `data.txt`. How
 would we do that?
 
+```bash
+echo https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data > data.txt
+```
+
 Now that we have the data file, let's learn how to manipulate files.
 
 ### Copying, Moving, and Removing Files
@@ -191,7 +195,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+> What changed?: It shoed "B" for the number of bytes
 
 If instead copying we just want to change the name of a file, we can do:
 
