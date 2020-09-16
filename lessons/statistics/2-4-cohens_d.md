@@ -12,17 +12,21 @@
       return d
     
 Let's create a dataframe filtering for first-borns only
+
     firsts = live[live.birthord == 1]
 
 Let's create another dataframe for all other babies
+
     others = live[live.birthord != 1]
 
 Calculate Cohen's Effect for weight in lbs
+
     CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
 
 Cohen's d = -0.0887
 
 Calculate Cohen's Effect for pregnancy length
+
     CohenEffectSize(firsts.prglngth, others.prglngth)
 
 Cohen's d = 0.0289
