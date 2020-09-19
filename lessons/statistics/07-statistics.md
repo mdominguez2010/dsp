@@ -93,7 +93,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+They both use models and data to compute some probability of an event occurring. Bayesian statistics, however, takes a step further and uses some prior knowledge and incorporates it into the model to compute a probability. 
 
 ---
 
